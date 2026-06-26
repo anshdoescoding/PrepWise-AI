@@ -10,7 +10,7 @@ PrepWise AI helps job seekers improve their resumes, analyze ATS compatibility, 
 
 🎥 **Project Demo:** *https://youtu.be/RVkFQZSEczY*
 
-🌐 **Live Website:** *(Add your deployed website link here after deployment)*
+🌐 **Live Website:** *https://prepwise-ai-7867sydg.streamlit.app/*
 
 ---
 

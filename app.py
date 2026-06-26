@@ -126,7 +126,7 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
     st.markdown("""
-    <div style="background:rgba(255,255,255,0.05);padding:25px;border-radius:20px;border:1px solid #00F5FF;text-align:center;height:180px;">
+    <div style="background:rgba(255,255,255,0.05);padding:25px;border-radius:20px;border:1px solid #00F5FF;text-align:center;height:220px;">
         <h2 style="color:#00F5FF;">🤖 AI Questions</h2>
         <p style="color:white;font-size:18px;">Generate personalized interview questions using AI.</p>
     </div>
@@ -134,15 +134,15 @@ with col1:
 
 with col2:
     st.markdown("""
-    <div style="background:rgba(255,255,255,0.05);padding:25px;border-radius:20px;border:1px solid #00F5FF;text-align:center;height:180px;">
+    <div style="background:rgba(255,255,255,0.05);padding:25px;border-radius:20px;border:1px solid #00F5FF;text-align:center;height:220px;">
         <h2 style="color:#00F5FF;">🎤 Voice Interview</h2>
-        <p style="color:white;font-size:18px;">Practice real-time interviews using speech-to-text.</p>
+        <p style="color:white;font-size:18px;">Practice real-time interviews with voice input.</p>
     </div>
     """, unsafe_allow_html=True)
 
 with col3:
     st.markdown("""
-    <div style="background:rgba(255,255,255,0.05);padding:25px;border-radius:20px;border:1px solid #00F5FF;text-align:center;height:180px;">
+    <div style="background:rgba(255,255,255,0.05);padding:25px;border-radius:20px;border:1px solid #00F5FF;text-align:center;height:220px;">
         <h2 style="color:#00F5FF;">📊 AI Feedback</h2>
         <p style="color:white;font-size:18px;">Receive intelligent feedback and interview scores instantly.</p>
     </div>

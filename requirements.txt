@@ -6,4 +6,3 @@ plotly
 pandas
 streamlit-mic-recorder
 SpeechRecognition
-pyaudio

@@ -1,0 +1,9 @@
+streamlit
+openai
+python-dotenv
+PyPDF2
+plotly
+pandas
+streamlit-mic-recorder
+SpeechRecognition
+pyaudio
